@@ -1,5 +1,7 @@
 # Standardized Factions
 
+by Dukeslayer and Starficz
+
 (Now compatible with Campaign Mode!)
 
 The purpose of this mod is to make every faction competitively viable while maintaining each of the factions unique, internal balances. Where other mods look to achieve balance through statistical changes, this mod instead uses whole faction cost modifiers.
