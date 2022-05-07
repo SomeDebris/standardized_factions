@@ -1,0 +1,27 @@
+ kAIDamageReproduceCooldown = 0
+
+ kAIInitReproduceCooldown = 0
+
+ kAISuperTimeStep = 2
+
+ kBlockExplodeChance = 1000000
+
+ kBlockMemoryPoolSize = 800000
+
+ kCommandHaloDeadliness = 0
+
+ kCommandHaloSize = { -5000, -5000 }
+
+ kSlowGrowRate = 1.0
+ kAgentMaxDeadly = 200000
+ kAgentMinDeadly = 100000
+ kConstructorBlockLimit = 4000
+ kPointMax = 80000
+ kStationActivateC = 3000
+ kStationLiberateC = 2000
+ kTargetDestroyC = 10000
+ kUpgradeBlockC = 90
+ kUpgradeCostStep = 100
+ kUpgradePCostC = 50
+ kWormholeC = 10000
+ kMainMenuBattlePRange = {5000,10000}
